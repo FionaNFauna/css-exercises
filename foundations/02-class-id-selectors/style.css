@@ -1,0 +1,19 @@
+.red{
+    background-color: #F2AAA9;
+}
+
+#blue{
+    color: blue;
+    font-size: 32px;
+}
+
+.cooler{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#green{
+    font-weight: bold;
+    background-color: #A1FC8F;
+    font-size: 20px;
+}
